@@ -5002,14 +5002,14 @@ graceful-fs@^4.1.11, graceful-fs@^4.1.2, graceful-fs@^4.2.4:
   resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.2.6.tgz#ff040b2b0853b23c3d31027523706f1885d76bee"
   integrity sha512-nTnJ528pbqxYanhpDYsi4Rd8MAeaBA67+RZ10CM1m3bTAVFEDcd5AuA4a6W5YkGZ1iNXHzZz8T6TBKLeBuNriQ==
 
-graphql-constraint-directive@2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/graphql-constraint-directive/-/graphql-constraint-directive-2.1.1.tgz#d27cef70c6713e0b49c910ea6e71e11c6d4ca65a"
-  integrity sha512-KybJ4yIqN61ZukJf711UQ3pt4qHBUduXgjG/aO6tfDt2O6Ogdp1WJWzw3tl+WR/OcnAn4gAGLZxQ1KKMPAk6FQ==
+graphql-constraint-directive@2.2.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/graphql-constraint-directive/-/graphql-constraint-directive-2.2.0.tgz#99d316c86e41562d4d805fa6f5834abb5ef082b1"
+  integrity sha512-cP4pjEceEh3F6PLVObDjo73zbHM6SyeYHYstoFWKBKl0pM5K0NoGSXZgtEVSxfpiXNcBm21GmcnJryf4y4JFlw==
   dependencies:
     "@graphql-tools/schema" "^6.0.9"
     "@graphql-tools/utils" "^6.0.9"
-    validator "^10.2.0"
+    validator "^13.6.0"
 
 graphql-extensions@^0.13.0:
   version "0.13.0"
@@ -9225,10 +9225,10 @@ validator@13.5.2:
   resolved "https://registry.yarnpkg.com/validator/-/validator-13.5.2.tgz#c97ae63ed4224999fb6f42c91eaca9567fe69a46"
   integrity sha512-mD45p0rvHVBlY2Zuy3F3ESIe1h5X58GPfAtslBjY7EtTqGquZTj+VX/J4RnHWN8FKq0C9WRVt1oWAcytWRuYLQ==
 
-validator@^10.2.0:
-  version "10.11.0"
-  resolved "https://registry.yarnpkg.com/validator/-/validator-10.11.0.tgz#003108ea6e9a9874d31ccc9e5006856ccd76b228"
-  integrity sha512-X/p3UZerAIsbBfN/IwahhYaBbY68EN/UQBWHtsbXGT5bfrH/p4NQzUCG1kF/rtKaNpnJ7jAu6NGTdSNtyNIXMw==
+validator@^13.6.0:
+  version "13.7.0"
+  resolved "https://registry.yarnpkg.com/validator/-/validator-13.7.0.tgz#4f9658ba13ba8f3d82ee881d3516489ea85c0857"
+  integrity sha512-nYXQLCBkpJ8X6ltALua9dRrZDHVYxjJ1wgskNt1lH9fzGjs3tgojGSCBjmEPwkWS1y29+DrizMTW19Pr9uB2nw==
 
 vary@^1, vary@~1.1.2:
   version "1.1.2"
