@@ -81,7 +81,7 @@
     "passport-local": "1.0.0",
     "passport-saml": "2.1.0",
     "python-shell": "3.0.0",
-    "ramda": "0.27.1",
+    "ramda": "0.27.2",
     "redlock": "4.2.0",
     "rxjs": "6.6.7",
     "sanitize-filename": "1.6.3",
