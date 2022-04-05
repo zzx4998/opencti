@@ -69,7 +69,7 @@
     "migrate": "1.7.0",
     "mime-types": "2.1.30",
     "minio": "7.0.18",
-    "moment": "2.29.1",
+    "moment": "2.29.2",
     "nconf": "0.11.2",
     "openid-client": "4.6.0",
     "passport": "0.4.1",
