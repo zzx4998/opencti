@@ -70,7 +70,7 @@
     "mime-types": "2.1.30",
     "minio": "7.0.18",
     "moment": "2.29.1",
-    "nconf": "0.11.2",
+    "nconf": "0.12.0",
     "openid-client": "4.6.0",
     "passport": "0.4.1",
     "passport-auth0": "1.4.0",
