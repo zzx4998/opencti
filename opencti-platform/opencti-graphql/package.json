@@ -68,7 +68,7 @@
     "merge-graphql-schemas": "1.7.8",
     "migrate": "1.7.0",
     "mime-types": "2.1.30",
-    "minio": "7.0.18",
+    "minio": "7.0.33",
     "moment": "2.29.1",
     "nconf": "0.11.2",
     "openid-client": "4.6.0",
