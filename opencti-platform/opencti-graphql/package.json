@@ -52,7 +52,7 @@
     "express-session": "1.17.1",
     "github-api": "3.4.0",
     "graphql": "15.5.0",
-    "graphql-constraint-directive": "2.1.1",
+    "graphql-constraint-directive": "2.2.0",
     "graphql-import": "1.0.2",
     "graphql-iso-date": "3.6.1",
     "graphql-redis-subscriptions": "2.3.1",
@@ -88,7 +88,7 @@
     "set-interval-async": "2.0.1",
     "uuid": "8.3.2",
     "uuid-time": "1.0.0",
-    "validator": "13.5.2",
+    "validator": "13.15.20",
     "winston": "3.3.3",
     "winston-daily-rotate-file": "4.5.2"
   },
