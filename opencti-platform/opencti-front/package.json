@@ -22,7 +22,7 @@
     "js-file-download": "0.4.12",
     "jsonwebtoken": "8.5.1",
     "leaflet": "1.7.1",
-    "lodash": "4.17.21",
+    "lodash": "4.17.23",
     "mdi-material-ui": "6.22.0",
     "moment": "2.29.1",
     "moment-timezone": "0.5.33",
